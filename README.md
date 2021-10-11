@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmegaGiga
-- 👀 I’m interested in Computer Science and the FGC.
+- 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me alfmelmacian80@yahoo.com
