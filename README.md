@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me dinogames52@gmail.com
 
 <!---
 OmegaGiga/OmegaGiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
