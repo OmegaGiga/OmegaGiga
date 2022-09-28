@@ -2,12 +2,12 @@ Beep boop, meow...
 
 Hello!
 I am Omega Giga.
--Anime & manga enjoyer
--Learning Python
--Inactvie Skullgirls player
--Inactive FGC enjoyer
--Mysterious Girlfriend X
--Linux
+<br>-Anime & manga enjoyer
+<br>-Learning Python
+<br>-Inactvie Skullgirls player
+<br>-Inactive FGC enjoyer
+<br>-Mysterious Girlfriend X
+<br>-Linux
 
 <!---
 OmegaGiga/OmegaGiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
