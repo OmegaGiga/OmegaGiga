@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @OmegaGiga
-- 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on nothing.
+Beep boop, meow...
+
+Hello!
+I am Omega Giga.
+-Anime & manga enjoyer
+-Learning Python
+-Inactvie Skullgirls player
+-Inactive FGC enjoyer
+-Mysterious Girlfriend X
+-Linux
 
 <!---
 OmegaGiga/OmegaGiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
