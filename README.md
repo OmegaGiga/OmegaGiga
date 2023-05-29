@@ -3,7 +3,7 @@ Beep boop, meow...
 Hello!
 I am Omega Giga.
 <br>-Anime & manga enjoyer
-<br>-Learning Python
+<br>-Learning Java
 <br>-Inactvie Skullgirls player
 <br>-Inactive FGC enjoyer
 <br>-Mysterious Girlfriend X
