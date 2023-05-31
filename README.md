@@ -5,7 +5,7 @@ When it comes to work, there is nothing I enjoy more than learning languages. Of
 <br><br>Studying Information Technology at Kennesaw State University, my goal to take reign of my Unix/Linux systems for the accomplishment of the previously mentioned resolve. 🏛
 <br><br>
 The setup:
-<li>Acer Aspier E1-731@Linux Mint 🍭</li>
+<li>Acer Aspire E1-731@Linux Mint 🍭</li>
 <li>M2 Macbook Air@macOS 🍎</li>
 <br>
 I used to play Skullgirls :)
