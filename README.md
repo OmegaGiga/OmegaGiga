@@ -1,8 +1,5 @@
 <h2>Hello!</h2>
-<strong>I am Omega Giga.</strong> 🤖
-<br><br>
-When it comes to work, there is nothing I enjoy more than learning languages. Of course, only those tongues that interest me, but the aim is always the same; comprehension (and fun)! And I love vtubers!
-<br><br>Studying Information Technology at Kennesaw State University, my goal to take reign of my Unix/Linux systems for the accomplishment of the previously mentioned resolve. 🏛
+<strong>I am Omega Giga.</strong> 🤖 I study Information Technology at Kennesaw State University in Georgia, USA.
 <br><br>
 Currently learning:
 <li>Indonesian 🇮🇩</li>
