@@ -3,11 +3,11 @@
 <br><br>
 Currently learning:
 <li>Indonesian 🇮🇩</li>
-<li>Java ☕</li>
+<li>C#</li>
 <br>
 The setup:
-<li>Acer Aspire E1-731@Linux Mint 🍭</li>
-<li>M2 Macbook Air@macOS 🍎</li>
+<li>Acer Aspire E1-731@Linux Mint</li>
+<li>M2 Macbook Air@macOS</li>
 <br>
 I used to play Skullgirls :)
 <br>
