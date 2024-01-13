@@ -3,7 +3,7 @@
 <br><br>
 Currently learning:
 <li>Indonesian 🇮🇩</li>
-<li>C#</li>
+<li>Python</li>
 <br>
 The setup:
 <li>Acer Aspire E1-731@Linux Mint</li>
@@ -12,7 +12,7 @@ The setup:
 I used to play Skullgirls :)
 <br>
 ——————————————————
-<br>Beep boop, meow...
+<br>WAH
 <!---
 OmegaGiga/OmegaGiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
