@@ -5,10 +5,6 @@ Currently learning:
 <li>Indonesian 🇮🇩</li>
 <li>Python</li>
 <br>
-The setup:
-<li>Acer Aspire E1-731@Linux Mint</li>
-<li>M2 Macbook Air@macOS</li>
-<br>
 I used to play Skullgirls :)
 <br>
 ——————————————————
