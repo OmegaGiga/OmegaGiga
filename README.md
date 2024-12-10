@@ -3,7 +3,7 @@
 <br><br>
 Currently learning:
 <li>Indonesian 🇮🇩</li>
-<li>Python</li>
+<li>Whatever!</li>
 <br>
 I used to play Skullgirls :)
 <br>
