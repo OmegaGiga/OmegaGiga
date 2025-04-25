@@ -2,7 +2,7 @@
 <strong>The name's Leonardo!</strong> 🤖 I study Information Technology at Kennesaw State University in Georgia, USA.
 <br><br>
 Currently learning:
-<li>Indonesian 🇮🇩</li>
+<li>日本語 🇯🇵</li>
 <li>Web development!</li>
 <br>
 I used to play Skullgirls :)
