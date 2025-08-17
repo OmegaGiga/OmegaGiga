@@ -3,7 +3,7 @@
 <br><br>
 Currently learning:
 <li>日本語 🇯🇵</li>
-<li>Web development!</li>
+<li>Something else!</li>
 <br>
 I used to play Skullgirls :)
 <br>
