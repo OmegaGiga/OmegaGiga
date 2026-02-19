@@ -3,9 +3,11 @@
 <br><br>
 Currently learning:
 <li>日本語 🇯🇵</li>
+<li>UNIX/Linux</li>
 <li>Something else!</li>
 <br>
-I used to play Skullgirls :)
+<img width="100" height="100" alt="Illustration" src="https://github.com/user-attachments/assets/84a03cdc-0c6e-41a8-8374-863f02acd459" />
+次次元ゲイム ネプテューヌ、最高！
 <br>
 ——————————————————
 <br>WAH 🐙
