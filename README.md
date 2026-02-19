@@ -1,13 +1,13 @@
 <h2>Hello!</h2>
-<strong>The name's Leonardo!</strong> 🤖 I study Information Technology at Kennesaw State University in Georgia, USA.
+I study Information Technology at Kennesaw State University in Georgia, USA.
 <br><br>
-Currently learning:
-<li>日本語 🇯🇵</li>
-<li>UNIX/Linux</li>
-<li>Something else!</li>
+Currently learning:<br>
+日本語 🇯🇵<br>
+UNIX/Linux<br>
+Something else!<br>
 <br>
 <img width="100" height="100" alt="Illustration" src="https://github.com/user-attachments/assets/84a03cdc-0c6e-41a8-8374-863f02acd459" />
-次次元ゲイム ネプテューヌ、最高！
+<strong>次次元ゲイム ネプテューヌ、最高！</strong>
 <br>
 ——————————————————
 <br>WAH 🐙
